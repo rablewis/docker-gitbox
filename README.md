@@ -5,7 +5,7 @@ Gitbox is a docker image that combines a preconfigured [git] (https://git-scm.co
 Installation:
 -------------
 
-Gitbox requires docker to be installed and operational. You can then either download this image from [hub.docker.com] (https://hub.docker.com/r/nmarus/docker-gitbox/), or clone this repository from [github.com] (https://github.com) and build the image locally.
+Gitbox requires docker to be installed and operational. You can then clone this repository from [github.com] (https://github.com) and build the image locally.
 
 The [master branch] (https://github.com/nmarus/docker-gitbox) is where all development is done. The [stable branch] (https://github.com/nmarus/docker-gitbox/tree/stable) is where all feature testing has been completed. The [hub.docker.com] (https://hub.docker.com/r/nmarus/docker-gitbox/) repository is built from the stable branch. Review the [README.md] (https://github.com/nmarus/docker-gitbox/blob/stable/README.md) for the stable branch as it is often quite different than that of the master branch. The master branch is in flux and features are constantly being tweaked and added.
 
